@@ -1,0 +1,21 @@
+
+
+.logo {
+    height:3vh;
+    padding:50px;
+}
+
+.logo-container {
+    height:100vh;
+}
+
+@media screen and (max-width: 768px) {
+
+.logo-container {
+    width:5vw;
+}
+
+.logo {
+    padding:10px;
+}
+}

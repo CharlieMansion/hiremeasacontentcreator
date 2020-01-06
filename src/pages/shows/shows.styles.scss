@@ -1,0 +1,118 @@
+.shows-sup-container {
+    display:flex;
+    width:100vw;
+    height:100vh;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.shows-background-container {
+    height:100%;
+    width:80%;
+    display:flex;
+    justify-content: center;
+    align-self: flex-start;
+    flex-direction: column;
+    background-image:url('../videos/WTVR_WEB_BG.jpg');
+    background-size: 200%;
+    background-position:20% 50%;
+
+}
+
+.shows-container {
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    width:100%;
+    height:50vh;
+    padding-bottom:10px;
+}
+
+.youtube-vid {
+    width:100%!important;
+    height:45vh;
+    font-family:'Roboto';
+    font-size:1.5vw;
+    width:40vw;
+    letter-spacing: 1px;
+    text-align:left;
+    
+
+}
+
+.vid-sub-container {
+    width:100%;
+}
+
+.vid-title {
+    font-family: futura-pt-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-transform:uppercase;
+    font-size: 1.5vw;
+    letter-spacing:5px;
+    text-align:center;
+    margin-bottom:10px;
+    color:white;
+    margin-bottom:3vw;
+}
+.vid-select {
+    display:flex;
+    height:10vh;
+    width:100%;
+    justify-content: center;
+    margin-bottom:2vw;
+    margin-top:13vh;
+    color:white;
+}
+
+.vid-thumb {
+    display:flex;
+    flex-direction:column;
+    height:10vh;
+    width:10vw;
+    opacity:1;
+    background-color: #c35d56;
+    margin:2vw 1vw 1vw;
+    font-family: futura-pt-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-transform:uppercase;
+    text-align:center;
+    justify-content: center;
+    font-size: 1.2vw;
+    padding-left:0;
+    filter:grayscale(100%);
+
+    &:hover {
+        filter:grayscale(0%)
+    }
+}
+
+.vid-thumbs {
+    height:10vh;
+}
+
+.vid-thumb-layover {
+    background: rgba(220, 220,220, 0.4);
+    height:10vh;
+    display:flex;
+    letter-spacing: 3px;
+    justify-content: center;
+
+    &:hover {
+        opacity:0;
+    }
+}
+
+.thumb-container {
+    text-align:center;
+    letter-spacing: 1px;
+    font-family: futura-pt-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-transform:uppercase;
+
+}
