@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/hiremeascontentcreator/static/css/main.67c12a57.chunk.css",
-    "main.js": "/hiremeascontentcreator/static/js/main.dd061cf0.chunk.js",
-    "main.js.map": "/hiremeascontentcreator/static/js/main.dd061cf0.chunk.js.map",
+    "main.css": "/hiremeascontentcreator/static/css/main.65251980.chunk.css",
+    "main.js": "/hiremeascontentcreator/static/js/main.1f975f86.chunk.js",
+    "main.js.map": "/hiremeascontentcreator/static/js/main.1f975f86.chunk.js.map",
     "runtime-main.js": "/hiremeascontentcreator/static/js/runtime-main.44621700.js",
     "runtime-main.js.map": "/hiremeascontentcreator/static/js/runtime-main.44621700.js.map",
     "static/css/2.1af7a3c5.chunk.css": "/hiremeascontentcreator/static/css/2.1af7a3c5.chunk.css",
-    "static/js/2.57ea847f.chunk.js": "/hiremeascontentcreator/static/js/2.57ea847f.chunk.js",
-    "static/js/2.57ea847f.chunk.js.map": "/hiremeascontentcreator/static/js/2.57ea847f.chunk.js.map",
+    "static/js/2.cabf954f.chunk.js": "/hiremeascontentcreator/static/js/2.cabf954f.chunk.js",
+    "static/js/2.cabf954f.chunk.js.map": "/hiremeascontentcreator/static/js/2.cabf954f.chunk.js.map",
     "index.html": "/hiremeascontentcreator/index.html",
-    "precache-manifest.c50d54881ae0b8494656b2d720ba00d6.js": "/hiremeascontentcreator/precache-manifest.c50d54881ae0b8494656b2d720ba00d6.js",
+    "precache-manifest.240c83ae7267335db35baec96993d4c8.js": "/hiremeascontentcreator/precache-manifest.240c83ae7267335db35baec96993d4c8.js",
     "service-worker.js": "/hiremeascontentcreator/service-worker.js",
     "static/css/2.1af7a3c5.chunk.css.map": "/hiremeascontentcreator/static/css/2.1af7a3c5.chunk.css.map",
-    "static/css/main.67c12a57.chunk.css.map": "/hiremeascontentcreator/static/css/main.67c12a57.chunk.css.map",
-    "static/js/2.57ea847f.chunk.js.LICENSE": "/hiremeascontentcreator/static/js/2.57ea847f.chunk.js.LICENSE",
+    "static/css/main.65251980.chunk.css.map": "/hiremeascontentcreator/static/css/main.65251980.chunk.css.map",
+    "static/js/2.cabf954f.chunk.js.LICENSE": "/hiremeascontentcreator/static/js/2.cabf954f.chunk.js.LICENSE",
     "static/media/NN_LOGO.png": "/hiremeascontentcreator/static/media/NN_LOGO.1e849796.png",
     "static/media/PIC1.png": "/hiremeascontentcreator/static/media/PIC1.b9e9292c.png",
     "static/media/PIC2.png": "/hiremeascontentcreator/static/media/PIC2.8098f6a6.png",
     "static/media/dribbble-4.svg": "/hiremeascontentcreator/static/media/dribbble-4.9bb82e2c.svg",
+    "static/media/menu-bar.86595150.svg": "/hiremeascontentcreator/static/media/menu-bar.86595150.svg",
     "static/media/portfolio.mp4": "/hiremeascontentcreator/static/media/portfolio.28f676e9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.44621700.js",
     "static/css/2.1af7a3c5.chunk.css",
-    "static/js/2.57ea847f.chunk.js",
-    "static/css/main.67c12a57.chunk.css",
-    "static/js/main.dd061cf0.chunk.js"
+    "static/js/2.cabf954f.chunk.js",
+    "static/css/main.65251980.chunk.css",
+    "static/js/main.1f975f86.chunk.js"
   ]
 }
